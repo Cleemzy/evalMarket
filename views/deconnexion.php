@@ -1,0 +1,1 @@
+<a href="<?= site_url('mainController/disconnect') ?>">Deconnexion</a>
